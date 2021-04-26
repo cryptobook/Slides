@@ -1,6 +1,7 @@
 # Slides
 Slides for selected topics of the book *A Course in Cryptography* by Heiko Knospe, American Mathematical Society, Pure and Applied Undergraduate Texts 40. More slides and updates coming soon.
 
+[Introduction](Slides_Introduction.pdf)   
 [Fundamentals](Slides_Fundamentals.pdf)  
 [Encryption Schemes and Definitions of Security](Slides_Encryption.pdf)  
 [Algebraic Structures](Slides_Algebra.pdf)  
